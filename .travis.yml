@@ -22,4 +22,4 @@ after_success:
   - docker push ashalight/multi-client
   - docker push ashalight/multi-nginx
   - docker push ashalight/multi-server
-  - docker push ashalaight/multi-worker
+  - docker push ashalight/multi-worker
