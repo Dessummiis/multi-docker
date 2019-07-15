@@ -24,6 +24,7 @@ after_success:
   - docker push ashalight/multi-server
   - docker push ashalight/multi-worker
 
+# ...
 deploy:
   provider: elasticbeanstalk
   region: eu-central-1
